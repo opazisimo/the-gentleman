@@ -1,0 +1,169 @@
+/* Generales */
+
+.bgDark {
+	background-color: #26242d;
+
+}
+
+.bgLight {
+	background-color: #dddee7;
+}
+
+.bgCentral {
+	background-color: #f2f2f5;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.bgShadow {
+	-webkit-box-shadow: 0px 2px 5px 4px rgba(105,104,105,0.38);
+	-moz-box-shadow: 0px 2px 5px 4px rgba(105,104,105,0.38);
+	box-shadow: 0px 2px 5px 4px rgba(105,104,105,0.38);
+}
+
+.inli {
+	display: inline;
+}
+
+.txDark {
+	color: #9798b3;
+}
+
+.txLight {
+	color: #5c5566;
+}
+
+.txPink {
+	color: #da1960;
+}
+
+.a-txPink:hover {
+	color: #da1960;
+}
+
+.txOpen {
+	font-family: "Open Sans";
+}
+
+.txSlabo {
+	font-family: "Slabo 27px", serif;
+}
+
+.mTopBtm {
+	margin-top: 30px;
+	padding-bottom: 30px !important; 
+}
+
+hr {
+	width: 100%;
+	border: 1px dashed #cfcfd2;
+}
+
+.and a{
+	text-decoration: none;
+}
+
+
+/* Navigator */
+
+nav a {
+	margin-left: 8px;
+	margin-right: 8px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Header */ 
+
+.header-img {
+	background: url(../img/header.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+}
+
+.header {
+	font-size: 12px;
+}
+
+.header h1 {
+	color: #453f4f;
+	font-size: 30px;
+}
+
+.b-readm a{
+	padding: 10px 30px;
+	border-radius: 30px;
+	background-color: #afacb6;
+	color: white; 
+}
+
+
+/* Latest Projects */ 
+
+.l-projects h1 {
+	color: #6b6475;
+}
+
+.l-projects img {
+	width: 100%;
+	border: 1px solid #eeeeea;
+}
+
+.title-lpro {
+	color: #5b5463;
+	font-weight: bold;
+}
+
+.icons-lpro {
+	font-size: 10px;
+	float: right;
+	color: #d0d0d2;
+}
+
+.bajada p {
+	display: inline;
+}
+
+.c-lpro {
+	color: #726c7b;
+	font-size: 10px;
+}
+
+.cont-lpro {
+	margin-top: 30px;
+}
+
+.t-lpro a {
+	color: #aba8b2;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+.t-lpro a:hover{
+	color: #6b6475;
+}
+
+.loadmore a{
+	color: white;
+}
+
+.b-loadm {
+	padding: 10px 30px;
+	background-color: #6b6475;
+	border-radius: 30px;
+
+}
+
+/* twitter */
+
+.b-follow {
+	padding: 3px 5px;
+	background-color: #6b6475;
+	border-radius: 3px;
+	color: white;
+	margin-left: 30px;
+	font-size: 10px;
+}
